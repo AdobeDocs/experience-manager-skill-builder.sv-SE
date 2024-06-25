@@ -1,6 +1,6 @@
 ---
 title: Slösa aldrig tid på att hitta innehåll igen
-description: Bli en skicklig författare med djupdykning i AEM Sites och Media Library Administration UI med tips och tricks för att öka effektiviteten
+description: Förbättra redigeringsprocessen med en djupgående guide till AEM Sites och Media Library med praktiska tips för att effektivisera det dagliga arbetsflödet.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: 080d9491-4d0a-4336-a4e0-a82d7bf5a278
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Experience Manager Sites] grunder
 
-Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Vi börjar med byggstenarna för framtagning av innehåll och presenterar dig för de grundläggande begreppen och funktionerna. Detta inkluderar webbplatsadministrationsfunktioner och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
+Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Serien börjar med byggstenarna för innehållsutveckling och presenterar de grundläggande begreppen och funktionerna. Det innehåller funktioner för webbplatsadministratörer och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
 
 ## Slösa aldrig tid på att hitta innehåll igen
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Bli en skicklig författare med djupdykning i AEM Sites och Media Library Administration UI med tips och tricks för att effektivisera din dagliga verksamhet.
+Förhöj dina kunskaper med en resa genom AEM Sites och Media Library Administration UI, tillsammans med effektiva strategier för att öka din dagliga produktivitet.
 
 ## Serieinspelningar
 

@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 8aebf75a-a17b-4d06-9e50-b2ab742fe790
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dynamic Media]- ADOBE [!DNL Experience Manager Assets] serie
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Om du är en läkare som är ny i Adobe [!DNL Experience Manager Assets] eller har använt Adobe [!DNL Experience Manager Assets] ett tag, och du är ute efter att fördjupa dig i dina befintliga kunskaper, är detta det idealiska sättet att få en djupdykning i fem av lösningens viktigaste områden. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Upptäck eller förfina din Adobe [!DNL Experience Manager Assets] expertis med fokuserad djupdykning i de fem viktigaste funktionerna - snabbt upp till färdigheter. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -29,11 +29,11 @@ Automatisera produktionen av resurser för alla kanaler och skärmar med [!DNL D
 
 ## Resurser
 
-*[[!DNL Dynamic Media] Användningsexempel](https://www.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/dynamic-media_dynamic-media-classic-use-cases-2019.pdf)
-*[[!DNL Dynamic Media] Videor](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=en#dynamic-media)
+*[[!DNL Dynamic Media] Användningsexempel](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-journey-part1)
+*[[!DNL Dynamic Media] Videor](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use#dynamic-media)
 *[Rich Media Strategy Kickstart Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guide till bildförinställning för multimediestrategi](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Bilden är Allting Blog Series](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Dynamic Media bästa praxis](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-journey/dm-best-practices)
 
 ## Serieinspelningar
 

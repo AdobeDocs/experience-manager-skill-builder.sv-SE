@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # BRAND PORTAL - ADOBE [!DNL Experience Manager Assets] serie
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Om du är en läkare som är ny i Adobe [!DNL Experience Manager Assets] eller har använt Adobe [!DNL Experience Manager Assets] ett tag, och du är ute efter att fördjupa dig i dina befintliga kunskaper, är detta det idealiska sättet att få en djupdykning i fem av lösningens viktigaste områden. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Förbättra din mastery i Adobe [!DNL Experience Manager Assets], oavsett om du är nybörjare eller erfaren. Gör en djupdykning i de fem viktiga delarna av plattformen med den här omfattande guiden. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -29,9 +29,9 @@ Brand Portal gör det enkelt att dela material mellan interna och externa team.
 
 ## Resurser
 
-* [Översikt [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [[!UICONTROL Brand Portal] Videor](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html)
-* [[!DNL Asset] källa](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+* [Översikt [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* [[!UICONTROL Brand Portal] Videor](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] källa](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Serieinspelningar
 
