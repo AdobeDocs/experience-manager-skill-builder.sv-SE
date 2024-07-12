@@ -1,5 +1,5 @@
 ---
-title: Testa bästa praxis med Cloud Manager - september 2019
+title: Testing Best Practices with Cloud Manager - September 2019
 description: Beskriv här
 sub-product: cloud-manager
 feature: Cloud Manager

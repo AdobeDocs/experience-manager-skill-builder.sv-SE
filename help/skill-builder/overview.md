@@ -9,9 +9,9 @@ ht-degree: 2%
 
 ---
 
-# [!DNL Experience Manager] Kunskapsbyggarinspelningar
+# [!DNL Experience Manager] inspelningar i kunskapsbyggaren
 
-Välkommen till Adobe [!DNL Experience Manager] Startsida för inspelningar i kunskapsbyggaren med inspelade webbinarier som utformats för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager].
+Välkommen till startsidan för inspelningar i Adobe [!DNL Experience Manager] i kunskapsbyggaren med inspelade webbinarier som utformats för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager].
 
 ## Nyheter
 
@@ -27,7 +27,7 @@ Välkommen till Adobe [!DNL Experience Manager] Startsida för inspelningar i ku
     </a>
     </div>
     <p>
-    <em>[!DNL Asset Link] är din inbyggda anslutning till Adobe Creative Cloud.</em>
+    <em>[!DNL Asset Link] är din ursprungliga anslutning till Adobe Creative Cloud.</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ Välkommen till Adobe [!DNL Experience Manager] Startsida för inspelningar i ku
     </a>
     </div>
     <p>
-    <em>Enkel fildelning med interna och externa team.</em>
+    <em>Enkel resursdelning med interna och externa team.</em>
     </p>
   </td>
   <td>
@@ -53,7 +53,7 @@ Välkommen till Adobe [!DNL Experience Manager] Startsida för inspelningar i ku
       </a>
     </div>
     <p>
-    <em>Automatisera produktionen av resurser för alla kanaler och skärmar.</em>
+    <em>Automatisera utdata av resurser för alla kanaler och skärmar.</em>
     <p>
   </td>
 </tr>
@@ -61,4 +61,4 @@ Välkommen till Adobe [!DNL Experience Manager] Startsida för inspelningar i ku
 
 >[!TIP]
 >
->**Se navigeringen till vänster för inspelningar från tidigare händelser i verktyget Skapa färdigheter**.
+>**Se navigeringen till vänster för inspelningar från tidigare händelser i kunskapsbyggaren**.

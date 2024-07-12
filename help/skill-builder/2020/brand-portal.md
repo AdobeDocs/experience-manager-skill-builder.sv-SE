@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# BRAND PORTAL - ADOBE [!DNL Experience Manager Assets] serie
+# Brand Portal - Adobe [!DNL Experience Manager Assets]-serien
 
 Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Förbättra din mastery i Adobe [!DNL Experience Manager Assets], oavsett om du är nybörjare eller erfaren. Gör en djupdykning i de fem viktiga delarna av plattformen med den här omfattande guiden. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
@@ -29,9 +29,9 @@ Brand Portal gör det enkelt att dela material mellan interna och externa team.
 
 ## Resurser
 
-* [Översikt [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Brand Portal] Videor](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
-* [[!DNL Asset] källa](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
+* [Översikt över [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* [[!UICONTROL Brand Portal] videoklipp](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [[!DNL Asset] skapar](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Serieinspelningar
 

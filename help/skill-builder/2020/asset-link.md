@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Asset Link]"
+title: '[!DNL Asset Link]'
 description: Din inbyggda anslutning till Adobe Creative Cloud.
 solution: "[!DNL Experience Manager], [!DNL Experience Manager Assets]"
 product: experience manager
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Asset Link] - ADOBE [!DNL Experience Manager Assets] serie
+# [!DNL Asset Link] - Adobe [!DNL Experience Manager Assets]-serien
 
 Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Nytt eller kryddat i Adobe [!DNL Experience Manager Assets]? Fullända dina färdigheter med en grundlig utforskning av de fem viktigaste funktionerna. Öka din expertis effektivt. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-[!DNL Asset Link] är din inbyggda anslutning till Adobe Creative Cloud.
+[!DNL Asset Link] är din ursprungliga anslutning till Adobe Creative Cloud.
 
 ## Resurser
 

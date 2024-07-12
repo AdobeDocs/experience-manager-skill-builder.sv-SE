@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Metadata - Adobe [!DNL Experience Manager Assets] serie
+# Metadata - Adobe [!DNL Experience Manager Assets]-serien
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Det här seminariet är perfekt för både nybörjare och erfarna användare och ger en omfattande utforskning av Adobe [!DNL Experience Manager Assets]Fem viktiga funktioner för att lyckas med lösningen. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Den här sessionen är perfekt för både nykomlingar och erfarna användare och erbjuder en omfattande utforskning av Adobe [!DNL Experience Manager Assets]s fem viktiga funktioner som hjälper dig att hitta lösningen. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -30,8 +30,8 @@ Konfigurera en tydlig strategi för att optimera upptäckbarheten.
 ## Resurser
 
 *[Använd metadatamodeller för att hantera metadata för resurser](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[Utöka metadatascheman](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[Optimera framtagningen av metadata med överlappande metadata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[Utöka metadatamatcheman](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[Optimera redigering av metadata med överlappande metadata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
 *[Tillämpa automatiskt metadata på resurser med hjälp av metadataprofiler](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
 *[AEM metadatascheman](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
 *[Hantera resursmetadata](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)

@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Mappstruktur och sökning - Adobe [!DNL Experience Manager Assets] serie
+# Mappstruktur och sökning - Adobe [!DNL Experience Manager Assets]-serien
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Om du är nybörjare i Adobe [!DNL Experience Manager Assets] För att förfina dina kunskaper är detta djupdykning i fem nyckelområden det perfekta sättet att förbättra din expertis. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Vare sig du är nybörjare i Adobe [!DNL Experience Manager Assets] eller har finslipat dina kunskaper är detta djupdykning i fem nyckelområden det perfekta sättet att förbättra din expertis. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
@@ -30,7 +30,7 @@ Grunderna för att konfigurera och använda din DAM.
 ## Resurser
 
 * [[!DNL AEM Assets] Användarhandbok](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/assets)
-* [Konfigurera [!DNL AEM Assets] mappstruktur](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Konfigurerar din [!DNL AEM Assets] mappstruktur](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-folders)
 * [Konfigurera [!DNL AEM Assets] mappbehörigheter](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [Använd samlingar för att ordna och dela resurser](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [Hitta visuellt liknande resurser med maskininlärning](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/search)
