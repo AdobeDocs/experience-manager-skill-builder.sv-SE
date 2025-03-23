@@ -8,11 +8,11 @@ feature: Asset Management
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: 596b3f82-405c-47bf-af63-55f72bd8634e
-source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Mappstruktur och sökning - Adobe [!DNL Experience Manager Assets]-serien
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Vare sig du är nybörjare i Adobe [!DNL Experience Manager Assets] eller har finslipat dina kunskaper är detta djupdykning i fem nyckelområden det perfekta sättet att förbättra din expertis. Adobe experter granskar grunderna och ger också avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera din investering i Adobe [!DNL Experience Manager Assets]. Vare sig du inte har använt Adobe [!DNL Experience Manager Assets] tidigare eller har finslipat dina kunskaper är det här djupdykning i fem viktiga områden det perfekta sättet att förbättra din expertis. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 

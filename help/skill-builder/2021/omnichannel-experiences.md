@@ -8,20 +8,20 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8935
 exl-id: fef99f2a-8480-4c64-8dbb-a120d203b498
-source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
+source-git-commit: 88778b44085fa79695d92f37f167b000be357965
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Grundläggande om [!DNL Experience Manager Sites] Adobe
+# Grundläggande om Adobe [!DNL Experience Manager Sites]
 
-Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Serien börjar med byggstenarna för innehållsutveckling och presenterar de grundläggande begreppen och funktionerna. Det innehåller funktioner för webbplatsadministratörer och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
+Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Serien börjar med byggstenarna för innehållsutveckling och presenterar de grundläggande begreppen och funktionerna. Här finns funktioner för webbplatsadministratörer och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
 
 ## Innehåll överallt - Omnichannel experiences a reality
 
